@@ -1,0 +1,30 @@
+html, body{
+	height: 99%;
+}
+
+#sidebar {
+	height: 100%;
+	width: 20%;
+	float: left;
+	overflow-y: scroll; 
+}
+
+#content_win {
+	height: 99%;
+	width: 79%;
+	float: right; 
+	overflow: hidden;
+}
+
+
+	
+.contact_button {
+	height: 40px; 
+	width: 100%;
+}
+
+.content_frame {
+	height: 99%;
+	width: 100%;
+}
+	

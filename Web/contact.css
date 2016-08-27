@@ -1,0 +1,26 @@
+html, body{
+	height: 90%;
+}
+#content_win{
+	width: 99%;
+	height: 85%;
+	overflow-y: scroll; 
+}
+
+#entry_win{
+	width: 99%;
+	height: 20%;
+}
+
+.messages{
+	width: 90%;
+	height: 10%;
+}
+
+#input{
+}
+
+#send_btn{
+        height: 50px; 
+        width: 100px; 
+}
